@@ -4,7 +4,7 @@
 
 ### Games 
 
-[Space Block Smasher](https://bilalbalci93.github.io/SpaceSheep16WebPage/)
+[Space Block Smasher](https://bilalbalci93.github.io/SpaceBlockSmasherWebPage/)
 <img src="images/SpaceBlockSmasher_1.png?raw=true"/>
 
 ---
