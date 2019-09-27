@@ -9,7 +9,7 @@
 
 ---
 [SpaceSheep 16](/pdf/sample_presentation.pdf)
-<img src="images/SpaceSheep16_1?raw=true"/>
+<img src="images/SpaceSheep16_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
